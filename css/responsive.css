@@ -1,0 +1,141 @@
+@media (min-width:320px) and (max-width:575px){
+  .navbar-brand img{
+    width: 100px;
+  }
+  .banner_head h4{
+    font-size: 30px;
+  }
+  .navbar-light .navbar-nav .nav-link{
+    background-color:rgba(52,52,52,.54);
+    padding-left: 30px;
+  }
+  .button_left a{
+    font-size: 11px;
+    text-align: right;
+  }
+  .button_right a{
+      font-size: 11px;
+  }
+  .dish img {
+    display: none;
+  }
+  .content h4{
+    font-size: 21px;
+  }
+  .content p {
+    font-size: 9px;
+    padding-top: 20px;
+  }
+  .space{
+    margin-bottom: 20px;
+    width: 150px;
+  }
+  .chef{
+    text-align: right;
+  }
+  .suree{
+    display: none;
+  }
+  .boxx{
+    text-align: center;
+  }
+  .guest_review p{
+    font-size: 15px;
+  }
+  .style_img{
+    display: none;
+  }
+  .location p{
+    padding-bottom: 30px;
+  }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  .navbar-light .navbar-nav .nav-link{
+      background-color:rgba(52,52,52,.54);
+      padding-left: 30px;
+  }
+  .banner_head h4{
+    font-size: 35px;
+    padding-top: 40px;
+  }
+  .content p{
+    font-size: 16px;
+  }
+  .space {
+    margin-bottom: 20px;
+    width: 190px;
+    margin-top: 30px;
+  }
+  .chef{
+    text-align: right;
+  }
+  .dish img{
+    display: none;
+  }
+  .style_img{
+    display: none;
+  }
+  .location p{
+    padding-bottom: 30px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar-light .navbar-nav .nav-link{
+      background-color:rgba(52,52,52,.54);
+      padding-left: 30px;
+  }
+  .banner_head h4{
+    font-size: 32px;
+    padding-top: 50px;
+  }
+  .content p {
+    font-size: 11px;
+  }
+  .chef{
+    text-align: right;
+    margin-bottom: 30px;
+  }
+  .chef img{
+    width: 130px;
+  }
+  .form_creat{
+    padding-bottom: 0px;
+  }
+  .review_details{
+    padding-bottom: 0px;
+  }
+  .review_details p{
+    font-size: 10px;
+  }
+  .style_img{
+    margin-top: 50px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .banner_head h4{
+    font-size: 38px;
+    padding-top: 50px;
+  }
+  .content p{
+    font-size: 14px;
+  }
+  .chef{
+    text-align: right;
+    margin-bottom: 30px;
+  }
+  .chef img{
+    width: 180px;
+  }
+  .style_img{
+    margin-top: 30px;
+  }
+}
+@media (min-width: 1200px) {
+  .banner_head h4{
+    font-size: 38px;
+    padding-top: 50px;
+  }
+}
+/*
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... } */
